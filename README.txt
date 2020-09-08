@@ -1,0 +1,2 @@
+The data.csv file would be the easiest for human use due to its ability to be opened and manipulated in an Excel document.
+The data.xml file would be easier for the computer to use becauase it was designed to store and transport data.
