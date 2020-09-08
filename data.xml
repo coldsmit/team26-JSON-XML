@@ -1,0 +1,119 @@
+<DATA>
+
+	<ROW>
+		<courseId>BUSX2001</courseId>
+		<enrollmentId>3003</enrollmentId>
+		<studentId>1001</studentId>
+		<studentName>Harvey Kim</studentName>
+		<dob>1996-12-12</dob>
+		<courseName>Economics</courseName>
+		<credits>3</credits>
+		<enrollmentCap>45</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2001</courseId>
+		<enrollmentId>3004</enrollmentId>
+		<studentId>1002</studentId>
+		<studentName>Emilia Harris</studentName>
+		<dob>1999-05-06</dob>
+		<courseName>Economics</courseName>
+		<credits>3</credits>
+		<enrollmentCap>45</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2001</courseId>
+		<enrollmentId>3009</enrollmentId>
+		<studentId>1003</studentId>
+		<studentName>Brian McCallister</studentName>
+		<dob>1997-04-16</dob>
+		<courseName>Economics</courseName>
+		<credits>3</credits>
+		<enrollmentCap>45</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2002</courseId>
+		<enrollmentId>3005</enrollmentId>
+		<studentId>1002</studentId>
+		<studentName>Emilia Harris</studentName>
+		<dob>1999-05-06</dob>
+		<courseName>Applied Statistics</courseName>
+		<credits>2</credits>
+		<enrollmentCap>20</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2002</courseId>
+		<enrollmentId>3008</enrollmentId>
+		<studentId>1003</studentId>
+		<studentName>Brian McCallister</studentName>
+		<dob>1997-04-16</dob>
+		<courseName>Applied Statistics</courseName>
+		<credits>2</credits>
+		<enrollmentCap>20</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2003</courseId>
+		<enrollmentId>3001</enrollmentId>
+		<studentId>1001</studentId>
+		<studentName>Harvey Kim</studentName>
+		<dob>1996-12-12</dob>
+		<courseName>Spreadsheet Modeling</courseName>
+		<credits>2</credits>
+		<enrollmentCap>55</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2003</courseId>
+		<enrollmentId>3006</enrollmentId>
+		<studentId>1002</studentId>
+		<studentName>Emilia Harris</studentName>
+		<dob>1999-05-06</dob>
+		<courseName>Spreadsheet Modeling</courseName>
+		<credits>2</credits>
+		<enrollmentCap>55</enrollmentCap>
+		<startDate>2020-08-31</startDate>
+		<grade></grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2004</courseId>
+		<enrollmentId>3002</enrollmentId>
+		<studentId>1001</studentId>
+		<studentName>Harvey Kim</studentName>
+		<dob>1996-12-12</dob>
+		<courseName>Pricing Management</courseName>
+		<credits>2</credits>
+		<enrollmentCap>50</enrollmentCap>
+		<startDate>2020-01-12</startDate>
+		<grade>A</grade>
+	</ROW>
+
+	<ROW>
+		<courseId>BUSX2004</courseId>
+		<enrollmentId>3007</enrollmentId>
+		<studentId>1002</studentId>
+		<studentName>Emilia Harris</studentName>
+		<dob>1999-05-06</dob>
+		<courseName>Pricing Management</courseName>
+		<credits>2</credits>
+		<enrollmentCap>50</enrollmentCap>
+		<startDate>2020-01-12</startDate>
+		<grade>B-</grade>
+	</ROW>
+</DATA>
